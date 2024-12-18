@@ -1,0 +1,27 @@
+# Jekyll specific files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Node.js (if using npm for managing dependencies)
+node_modules/
+
+# Ruby specific
+.bundle/
+Gemfile.lock
+
+# IDE specific
+.idea/
+.vscode/
+*.iml

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome to My Blog!"
+date:   2024-12-18 23:00:00 +1000
+categories: jekyll update
+---
+Hello, and welcome to my blog! I’m Kain Wong, and this site serves as a hub for my projects, insights, and anything I find interesting or worth sharing. My goal is to keep things approachable while showcasing things I’m working on and the ideas I’m exploring.
+
+## What You’ll Find Here
+
+This blog is designed to be:
+- A Portfolio: Explore my projects, learn about the challenges I’ve tackled, and see the results of my work.
+- A Blog: Read posts about topics that interest me, ranging from technology to productivity and beyond.
+- A Resource: Discover tools, techniques, and lessons that I’ve found useful in my journey.
+
+## Why This Blog?
+
+Over the years, I’ve worked on various projects and learned a lot along the way. This blog is a space where I can document and share my journey, connect with like-minded individuals, and create a presence online.
+
+## What's Next
+
+I’ll be adding posts about some of my key projects and the thought process behind them. Stay tuned for updates and feel free to explore as I continue to build and refine this space.
+
+Thanks for stopping by, and I hope you find something here that inspires or resonates with you!
