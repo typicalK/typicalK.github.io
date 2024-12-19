@@ -36,3 +36,10 @@ Let’s see where this journey takes us!
 If you enjoy my content and want to support my journey, consider buying me a coffee! Your support helps me dedicate more time to creating and sharing insights.
 
 <a href="https://buymeacoffee.com/kainwong" target="_blank">Buy Me a Coffee</a>
+
+<br>
+<br>
+
+**Next**
+
+[Simplifying Productivity with Markdown]({% post_url 2024-12-07-simplifying-productivity-with-markdown %})
