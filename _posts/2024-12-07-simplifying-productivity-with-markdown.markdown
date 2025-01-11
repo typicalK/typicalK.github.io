@@ -96,3 +96,6 @@ If you enjoy my content and want to support my journey, consider buying me a cof
 
 [Welcome to My Blog]({% post_url 2024-11-24-welcome-to-my-blog %})
 
+**Next**
+
+[Japanese Progress 2025 Week 1]({% post_url japanese-diaries/2025-01-06-japanese-progress-2025-week-1 %})
